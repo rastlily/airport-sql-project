@@ -94,12 +94,23 @@ In diesem Projekt wurden u.a. folgende Analyseaufgaben mit SQL umgesetzt:
 
 ## 🚀 So startest du
 
-Datenbank erstellen:
+SQL-Skripte ausführen
 
-```` sql 
-CREATE DATABASE project_flughafen;
-USE project_flughafen;
-````
+Führe zuerst die Datei mit der Struktur und den Basisdaten aus:  
+`flughafen_projekt_datenbank_trimmed.sql`
+
+Danach kannst du mit den vorbereiteten Abfragen arbeiten:  
+`flughafen_projekt_queries.sql`
+
+---
+
+⚠️ Hinweis zu den Daten
+Die Tabellen flug und buchung sind nicht im flughafen_projekt_datenbank_trimmed.sql enthalten, weil sie zu groß sind.
+Alle anderen Tabellen sind komplett dabei.
+
+📚 Zum Projekt
+Das Projekt ist für Lernzwecke gemacht und zeigt, wie man mit SQL arbeitet.
+
 ---
 
 ## 💡 Autor
