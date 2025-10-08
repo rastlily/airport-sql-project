@@ -1,4 +1,4 @@
-# Flight Data Analysis – Workflow & Results
+# Flight Data Analysis — SQL Project
 
 **Objective:**  
 
