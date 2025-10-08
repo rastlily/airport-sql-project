@@ -1,0 +1,4 @@
+flugzeug_id,firmenname,heimatflughafen_id,land,Anzahl,bezeichnung
+1215,"Italy Airlines",197,ITALY,231,"Airbus A380"
+1207,"Italy Airlines",197,ITALY,224,"Fokker 70"
+1217,"Italy Airlines",197,ITALY,217,"Douglas DC-9"
