@@ -4,6 +4,8 @@
 
 Identify patterns and disparities in flight bookings, passenger behavior, and airline performance.
 
+![](visuals/plane.jpg)
+
 **Workflow Overview:**
 
 - Database Design & Setup
