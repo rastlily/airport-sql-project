@@ -10,7 +10,7 @@ Identify patterns and disparities in flight bookings, passenger behavior, and ai
 - Data Population  
 - SQL Queries
 
-Follow the step-by-step results: [Open Full Notebook](`notebook/flughafen_project.ipynb`)  
+Follow the step-by-step results: [Open Full Notebook](notebook/flughafen_project.ipynb)  
 
 **Tech Stack:**  
 
