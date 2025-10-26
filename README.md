@@ -12,13 +12,9 @@ Database Design & Setup --> Data Population --> SQL Queries
 
 Follow the step-by-step results: [Open Full Notebook](notebook/flughafen_project.ipynb)  
 
-**Tech Stack:**  
-
-SQL (MySQL)  
+**Tech Stack:** SQL (MySQL)  
   
-**Author:**  
-  
-Liliia Rastorhuieva
+**Author:** Liliia Rastorhuieva
 
 
 
