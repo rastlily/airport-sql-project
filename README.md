@@ -2,13 +2,13 @@
 
 **Objective:**  
 
-Identify patterns and disparities in flight bookings, passenger behavior, and airline performance.
-
-![](visuals/plane.jpg)
+Identify patterns and disparities in flight bookings, passenger behavior, and airline performance.  
 
 **Workflow Overview:**
 
 Database Design & Setup --> Data Population --> SQL Queries
+
+![](visuals/plane.jpg)
 
 Follow the step-by-step results: [Open Full Notebook](notebook/flughafen_project.ipynb)  
 
