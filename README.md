@@ -1,14 +1,14 @@
 # Flight Data Analysis - SQL Project
 
-### **Objective:**  
+**Goal/Objective:**  
 
-Identify patterns and disparities in flight bookings, passenger behavior, and airline performance.  
+Identify patterns and disparities in flight bookings, passenger behavior, and airline performance while demonstrating SQL and analytical skills.
 
-### **Workflow Overview:**
+**Workflow Overview:**
 
 Database Design & Setup --> Data Population --> SQL Queries  
 
-### **Data Overview:**
+**Data Overview:**
 
 The dataset includes over **3.9M bookings** with details on flights, passengers, airlines, and aircraft from the project_flughafen database.
 
@@ -16,11 +16,11 @@ The dataset includes over **3.9M bookings** with details on flights, passengers,
 
 Follow the step-by-step results: [Open Full Notebook](notebook/flughafen_project.ipynb)  
 
-### **Tech Stack:** SQL (MySQL)  
+**Tech Stack:** SQL (MySQL)  
 
-### **Analysis type:** Descriptive, Comparative, Trend & Distribution analysis  
+**Analysis type:** Descriptive, Comparative, Trend & Distribution analysis  
   
-### **Author:** Liliia Rastorhuieva
+**Author:** Liliia Rastorhuieva
 
 
 
