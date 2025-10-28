@@ -6,7 +6,11 @@ Identify patterns and disparities in flight bookings, passenger behavior, and ai
 
 **Workflow Overview:**
 
-Database Design & Setup --> Data Population --> SQL Queries
+Database Design & Setup --> Data Population --> SQL Queries  
+
+**Data Overview:**
+
+The dataset includes over **3.5M bookings** with details on flights, passengers, airlines, and aircraft from the project_flughafen database.
 
 ![](visuals/plane.jpg)
 
